@@ -24,9 +24,5 @@ This project analyzes global video game sales data across multiple gaming platfo
 - Regional comparison
 - Sales insights
 
-## 📷 Dashboard Preview
-
-![Dashboard](Images/dashboard_overview.png)
-
 ## 👨‍💻 Author
 Vikrant Kumar
